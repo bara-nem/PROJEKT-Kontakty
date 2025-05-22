@@ -15,3 +15,27 @@ Mobil   0 - 539px
 Tablet  540px - 959px (čti jako 540px a víc)
 PC      960px a víc
 */
+
+
+/* MOBIL */
+
+header{
+	max-width: 300px;
+	text-align: center;
+}
+.zena{
+	border: 1px solid rgb(197, 197, 197);
+	border-radius: 15px;
+	margin: 15px 0;
+	overflow: hidden;
+	max-width: 300px;
+	text-align: center;
+	padding: 10px 15px;
+}
+
+.zena img{
+	border-radius: 50%;
+}
+
+
+/* TABLET */
